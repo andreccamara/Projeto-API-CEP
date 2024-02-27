@@ -7,11 +7,11 @@
     height: 400px;
     background-color: blanchedalmond;
     justify-content: center;
-    display: flex;
+ 
 }
 h1{
     text-align: center;
-
+    color:blue
 }
 #principal >:nth-child(n){
 margin: 0 auto;
@@ -24,7 +24,7 @@ label{
 }
 
 #x{
-    display: flex;
+   
     align-content: center;
 }
 
